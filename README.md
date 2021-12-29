@@ -1,4 +1,4 @@
-# .NET版疫情模拟程序
+# .NET版疫情模拟程序 [![QQ](https://img.shields.io/badge/QQ_Group-579060605-52B6EF?style=social&logo=tencent-qq&logoColor=000&logoWidth=20)](https://jq.qq.com/?_wv=1027&k=K4fBqpyQ)
 博客介绍链接：https://www.cnblogs.com/sdflysha/p/20200209-ncp-simulation-dotnet-tutorial.html
 
 ## .linq文件说明
